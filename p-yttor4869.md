@@ -8,5 +8,7 @@
 |とりあえず色々(は？)|
 |-|
 |[Youtube](https://www.youtube.com/channel/UCwtA1x7pNWiDI6b30ZbS5wA)|
+|-|
 |[Twitter](https://twitter.com/pyttor33_111)|
+|-|
 |[DiscordServer](https://tel1hor.tel1horjp.repl.co/tel1horserver.html)|
