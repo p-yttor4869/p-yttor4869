@@ -4,4 +4,4 @@
 ## 現在更新中のやつ色々##
 [![](https://github-readme-stats.vercel.app/api/pin/?username=p-yttor4869&repo=DiscordVerifiyBot&theme=midnight-purple)](https://github.com/p-yttor4869/DiscordVerifiyBot)
 
-### その他
+###### その他
