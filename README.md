@@ -8,4 +8,4 @@
 とりあえず色々(は？)<br>
 [Youtube](https://www.youtube.com/channel/UCwtA1x7pNWiDI6b30ZbS5wA)<br>
 [Twitter](https://twitter.com/pyttor33_111)<br>
-[DiscordServer](https://tel1hor.tel1horjp.repl.co/tel1horserver.html)
+[DiscordServer](https://tel1hor-api.tel1hor.tk/tel1horserver)
